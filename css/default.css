@@ -1,0 +1,8 @@
+* {box-sizing:border-box;}
+:focus {outline:none !important;} /* Focus outline fix */
+html {margin:0px;}
+body {
+    margin:0px;
+    font-family:Helvetica, Arial, sans-serif;font-weight:400;font-size:18px;
+    background:#f1f1f1;color:#222;
+}
