@@ -9,6 +9,7 @@ body {
 header {width:100%;}
 .navbar {background:#999;}
 .navbar-light .navbar-brand {color:#fff;}
+.navbar-light .navbar-toggler {box-shadow:none;border:none;}
 .navbar-light .navbar-nav .nav-link {color:#fff;}
 .nav-item {border-bottom:1px solid #444;}
 .nav-item:first-of-type {border-top:1px solid #444;}
