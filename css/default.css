@@ -7,7 +7,16 @@ body {
     background:#f1f1f1;color:#222;
 }
 header {width:100%;}
-.page-wrapper {width:100%;}
-#contentChicken {}
-#contentChicken h2 {}
-footer {position:absolute;bottom:0px;right:0px;font-size:.75rem;}
+.navbar {background:#999;}
+.navbar-light .navbar-brand {color:#fff;}
+.navbar-light .navbar-nav .nav-link {color:#fff;}
+.nav-item {border-bottom:1px solid #444;}
+.nav-item:first-of-type {border-top:1px solid #444;}
+
+.page-wrapper {width:100%;margin-top:40px;}
+#contentChicken {
+    margin:20px 0px;padding:20px;
+    background:#fff;border:1px solid #e1e1e1;border-radius:5px;box-shadow:0 10px 20px rgba(0, 0, 0, 0.05);transition:all 0.1s ease-in;}
+#contentChicken h2 {margin-bottom:20px;}
+
+footer {position:relative;float:right;font-size:.75rem;}
