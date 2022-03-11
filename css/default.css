@@ -8,4 +8,6 @@ body {
 }
 header {width:100%;}
 .page-wrapper {width:100%;}
+#contentChicken {}
+#contentChicken h2 {}
 footer {position:absolute;bottom:0px;right:0px;font-size:.75rem;}
