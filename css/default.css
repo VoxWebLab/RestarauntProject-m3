@@ -18,9 +18,9 @@ header {width:100%;}
 .nav-item {border-top:1px dotted #999;}
 
 .page-wrapper {width:100%;margin-top:40px;}
-#contentChicken {
-    margin:20px 0px;padding:20px;
+.content-box {
+    margin-bottom:20px;padding:20px;
     background:#fff;border:1px solid #e1e1e1;border-radius:5px;box-shadow:0 10px 20px rgba(0, 0, 0, 0.05);transition:all 0.1s ease-in;}
-#contentChicken h2 {margin-bottom:20px;}
+.content-box h2 {margin-bottom:20px;}
 
 footer {position:relative;float:right;font-size:.75rem;}
